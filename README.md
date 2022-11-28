@@ -14,7 +14,8 @@ To meet the user story, I had to achieve the following:
 N/A
 ## Usage
 The screenshot shows how the website now looks and its accessibility
-![screenshot](assets/04-code-refactor-lesson/assets/01-html-css-git-challenge-demo.png)
+![alt text](https://github.com/mewmew88/first-challenge/blob/main/04-code-refactor-lesson/assets/01-html-css-git-challenge-demo.png)
+
 ## Credits
 Followed the following tutorials; 
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
