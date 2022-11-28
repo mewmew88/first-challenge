@@ -4,7 +4,7 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-To meet the user story, I had to achieve the following:
+To achieve the User Story, a downdloaded starter code was given to work with and had to use GitHub for the repository and the deployment of the website. While GitBash and VSCode was used for working on the started code to acheive the following:
 - Semantic HTML elements were added throughout the source code
 - HTML elements now follow a logical structure independent of styling and positioning
 - Image and icon elements contain accessible alt attributes
